@@ -31,4 +31,5 @@ Demonstrates practical implementation of full-stack web development concepts.
 
 OUTPUT : 
 
+![Image](https://github.com/user-attachments/assets/e2245435-2e54-4f2c-922c-4a33a9bcd6f5)
 
