@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "Sneakers",
+      "price": 49.99,
+      "image": "images/sneakers.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Backpack",
+      "price": 39.99,
+      "image": "images/backpack.jpg"
+    }
+  ]
+  
